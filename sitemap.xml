@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gcaressato.github.io/fantasy/index.html</loc>
+    <loc>https://github.com/gcaressato/fantasy/blob/main/index.html</loc>
     <lastmod>2021-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10,7 +10,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://gcaressato.github.io/fantasy/white_paper.html</loc>
+    <loc>https://github.com/gcaressato/fantasy/blob/main/white_paper.html</loc>
     <lastmod>2021-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -19,16 +19,16 @@
     </image:image>
   </url>
   <url>
-    <loc>https://gcaressato.github.io/fantasy/mining.html</loc>
+    <loc>https://github.com/gcaressato/fantasy/blob/main/mining.html</loc>
     <lastmod>2021-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:lochttps://github.com/gcaressato/fantasy/blob/main/images/logo.jpg</image:loc>
+      <image:loc>https://github.com/gcaressato/fantasy/blob/main/images/logo.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://gcaressato.github.io/fantasy/nft.html</loc>
+    <loc>https://github.com/gcaressato/fantasy/blob/main/nft.html</loc>
     <lastmod>2021-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
