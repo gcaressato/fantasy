@@ -1,0 +1,51 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gcaressato.github.io" resolutions="1x" timestamp="1618255835793">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="4029535049" ref="nft:index:white_paper:mining"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="263563022" ref="nft:index:white_paper:mining"/>
+    <file name="nft.css" crc="4119304032" ref="nft"/>
+    <file name="nomq_nft.css" crc="380214062" ref="nft"/>
+    <file name="index.css" crc="4119304032" ref="index"/>
+    <file name="nomq_index.css" crc="380214062" ref="index"/>
+    <file name="white_paper.css" crc="4119304032" ref="white_paper"/>
+    <file name="nomq_white_paper.css" crc="380214062" ref="white_paper"/>
+    <file name="mining.css" crc="4119304032" ref="mining"/>
+    <file name="nomq_mining.css" crc="380214062" ref="mining"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:white_paper:mining:nft"/>
+    <file name="museutils.js" crc="340535759" ref="index:white_paper:mining:nft"/>
+    <file name="whatinput.js" crc="86476730" ref="index:white_paper:mining:nft"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:white_paper:mining:nft"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:white_paper:mining:nft"/>
+    <file name="webpro.js" crc="4059564322" ref="index:white_paper:mining:nft"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:white_paper:mining:nft"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:white_paper:mining:nft"/>
+    <file name="require.js" crc="7928878" ref="index:white_paper:mining:nft"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="153874880" seo="true" ref="index:white_paper:mining:nft">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="white_paper" alt=""/>
+      <caption webpage="white_paper" alt=""/>
+      <caption webpage="white_paper" alt=""/>
+      <caption webpage="mining" alt=""/>
+      <caption webpage="mining" alt=""/>
+      <caption webpage="mining" alt=""/>
+      <caption webpage="nft" alt=""/>
+      <caption webpage="nft" alt=""/>
+      <caption webpage="nft" alt=""/>
+    </file>
+    <file name="hamburguer.png" crc="4209557386" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:white_paper:mining:nft"/>
+  </folder>
+  <file name="index.html" crc="363756461" seo="true" mt="1618255753818" redirect="true"/>
+  <file name="white_paper.html" crc="4087862843" seo="true" mt="1618255753818" redirect="true"/>
+  <file name="mining.html" crc="282254226" seo="true" mt="1618255753818" redirect="true"/>
+  <file name="nft.html" crc="4028899707" seo="true" mt="1618255753818" redirect="true"/>
+</manifest>
